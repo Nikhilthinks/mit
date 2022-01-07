@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.center-child {
+    background-color: blue;
+    height: 30vh;
+    width: 30vw;
+}
